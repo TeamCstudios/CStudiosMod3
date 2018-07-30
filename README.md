@@ -1,12 +1,21 @@
 # CStudiosMod 3
 CStudios Mod, but now for 1.12.2.
 
-Latest Release: 0.2.0
+Latest Release: 0.3.0
 
-Next Release: 0.3.0
+Next Release: 0.4.0
 
 ## Changelog:
 ### Alpha:
+##### 0.3.0 (Newores Update):
+- Amethyst Ore
+- Amy Ore appears in wild
+- Amy Block
+- Feldspar Ore
+- Feld Ore appears in sd
+- Feldsparite
+- Feldsparite Block
+- Blood Diamond Armor can finally be crafted.
 ##### 0.2.0 (Slime Update):
 - Slimeium Ore
 - Slimeium Ore appears in wild
