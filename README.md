@@ -1,12 +1,20 @@
 # CStudiosMod 3
 CStudios Mod, but now for 1.12.2.
 
-Latest Release: 0.3.0
+Latest Release: 0.4.0
 
-Next Release: 0.4.0
+Next Release: 0.5.0
 
 ## Changelog:
 ### Alpha:
+##### Version 0.4.0 (Combat Update):
+- Titanium Ingot
+- Titanium Sword
+- Enhanced Slimeium Ingot
+- Slime Boots
+- Master Sword
+- Master of Combat (previously Triforce Hero)
+- Stronger ores (craft titanium)
 ##### 0.3.0 (Newores Update):
 - Amethyst Ore
 - Amy Ore appears in wild
