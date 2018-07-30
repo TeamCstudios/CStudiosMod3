@@ -1,13 +1,4 @@
 # Goals:
-### Version 0.4.0
-- Titanium Ingot
-- Titanium Block
-- Titanium Sword
-- Enhanced Slimeium Ingot
-- Slime Armor
-- Master Sword
-- Master of Combat (previously Triforce Hero)
-- We Need To Get Stickier (go to the slime dimension)
 ### Version 0.5.0
 - Lemon Grove Biome
 - Lemon Wood
