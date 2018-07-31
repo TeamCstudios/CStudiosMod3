@@ -1,12 +1,19 @@
 # CStudiosMod 3
 CStudios Mod, but now for 1.12.2.
 
-Latest Release: 0.4.0
+Latest Release: 0.5.0
 
-Next Release: 0.5.0
+Next Release: 0.5.1
 
 ## Changelog:
 ### Alpha:
+##### Version 0.5.0 (Lemon Update):
+- Lemon Grove Biome
+- Lemon Wood
+- Lemon Planks
+- Lemons
+- Lemon Leaves
+- I WANT MAH LEMONS (advancement: get a lemon)
 ##### Version 0.4.0 (Combat Update):
 - Titanium Ingot
 - Titanium Sword
