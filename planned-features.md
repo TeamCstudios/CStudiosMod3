@@ -1,13 +1,4 @@
 # Goals:
-### Version 0.5.0
-- Lemon Grove Biome
-- Lemon Wood
-- Lemon Planks
-- Lemons
-- Lemon Leaves
-- Lemon Stalk
-- Lemonade
-- I WANT MAH LEMONS (advancement: get a lemon)
 ### Version 0.6.0
 - Lime Grove Biome
 - Lime Wood
