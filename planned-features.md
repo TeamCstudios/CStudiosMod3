@@ -8,7 +8,7 @@
 - Lime Stalk
 - Limeade 
 - Lemon-Limeade
-- Take That, Scurvy (achievement: get a lime)
+- Take That, Scurvy (achievement: eat a lime)
 - Multi-Million Enterprise (achievement: make lemon-limeade)
 ### Version 1.0.0
 ...
